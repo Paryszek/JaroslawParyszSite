@@ -1,0 +1,29 @@
+/*!
+ * Start Bootstrap - Thumbnail Gallery (http://startbootstrap.com/template-overviews/thumbnail-gallery)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-thumbnail-gallery/blob/master/LICENSE)
+ */
+
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+} 
+
+.container {
+	padding-top:50px
+	padding-bottom:50px
+}
+
+.start {
+	margin-top:-22px;
+	padding:200px;
+	background-image: url('../img/background.jpg');
+	background-position: center center;
+	background-size:100% 175%;
+	background-repeat: no-repeat;
+}
